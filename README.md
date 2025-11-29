@@ -30,15 +30,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostmanwI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
-
-## 🛠️ Projects
-<div align="center" style="margin: 20px 0;">
-  [![Trading AI](https://img.shields.io/badge/Trading_AI-WINZ25-00D4AA?style=for-the-badge&logo=chart-line&logoColor=white)](https://github.com/ghostmanwI/trading-ai)
-  [![WhatsApp Bot](https://img.shields.io/badge/WhatsApp_Bot-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/ghostmanwI/whatsapp-bot)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Full_Stack-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ghostmanwI/portfolio)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostmanwI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f9d71c"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <h3>📊 Tech Stack</h3>
