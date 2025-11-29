@@ -3,7 +3,7 @@
 
 
 # Full Stack Developer & AI Specialist
-## Automation | Trading Bots | 25yo Brazilian Freelancer
+## Automation | Trading Bots | 16yo Brazilian Freelancer
 
 <div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
   
