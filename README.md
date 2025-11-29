@@ -3,7 +3,7 @@
 
 
 # Full Stack Developer & AI Specialist
-## Automation | Trading Bots | 16yo Brazilian Freelancer
+## Automation | Trading Bots | 25yo Brazilian Freelancer
 
 <div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
   
@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <td>🤖 <strong>AI & Automation</strong></td>
-      <td>ChatGPT • Gemini API • n8n • Image/Video Gen</td>
+      <td>ChatGPT • Gemini API • n8n • Image/Video Gen • Python ML • Neural Networks • Lora Training • Fine-tuning</td>
     </tr>
     <tr>
       <td>📱 <strong>WhatsApp Bots</strong></td>
@@ -28,6 +28,11 @@
   </table>
 </div>
 
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostmanwI&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+</div>
 
 <h3>💻 Tech Stack</h3>
 <div align="center">
@@ -42,4 +47,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Supabase-3ECBFE?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D17?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+</div>
+
+**🌟 Open to freelance & collaborations!**  
+📧 [your-email@example.com]
+
+</div>
