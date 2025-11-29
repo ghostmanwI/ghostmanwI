@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/85089217?u=0db684bafb8c57a2743bfdc1b2ce60f40e39a761&v=4" width="180" alt="Profile Picture" style="border-radius:50%; border: 4px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);"/>
+<img src="https://avatars.githubusercontent.com/u/85089217?u=0db684bafb8c57a2743bfdc1b2ce60f40e39a761&v=4" width="180" alt="Profile Picture" style="border-radius:50%;"/>
 
 # 👨‍💻 Full Stack Developer & AI Specialist
 ## 🤖 Automation | 📈 Trading Bots | 🇧🇷 16yo Brazilian Freelancer
