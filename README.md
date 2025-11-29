@@ -49,6 +49,6 @@
 </div>
 
 **Open to freelance & collaborations!**  
-📧 daniel@carvalhostudio.com.br
+ daniel@carvalhostudio.com.br
 
 </div>
