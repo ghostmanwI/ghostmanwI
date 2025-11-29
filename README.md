@@ -34,14 +34,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-  [![Trading AI](https://img.shields.io/badge/Trading%20AI-WINZ25-00D4AA?style=for-the-badge&logo=chart-line&logoColor=white)](https://github.com/ghostmanwI/trading-ai)
-  [![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/ghostmanwI/whatsapp-bot)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Full%20Stack-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ghostmanwI/portfolio)
+## 🛠️ Projects
+<div align="center" style="margin: 20px 0;">
+  [![Trading AI](https://img.shields.io/badge/Trading_AI-WINZ25-00D4AA?style=for-the-badge&logo=chart-line&logoColor=white)](https://github.com/ghostmanwI/trading-ai)
+  [![WhatsApp Bot](https://img.shields.io/badge/WhatsApp_Bot-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/ghostmanwI/whatsapp-bot)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Full_Stack-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ghostmanwI/portfolio)
 </div>
 
 <h3>📊 Tech Stack</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,react,node,python,supabase,mysql,redis,openai,n8n" alt="Tech Stack" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,mysql,redis" width="500" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=supabase,openai,n8n,whatsapp,binance,googlecloud" width="500" />
+</div>
 
 **🌟 Open to freelance & collaborations!**  
 📧 [your-email@example.com]
