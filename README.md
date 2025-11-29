@@ -10,7 +10,7 @@
             box-shadow: 0 20px 40px rgba(0,0,0,0.1); 
             border: 1px solid rgba(255,255,255,0.2);">
   
-  <h2 style="color: white; text-shadow: 0 2px 4px rgba(0,0,0,0.3); margin-bottom: 25px;">🚀 Core Expertise</h2>
+  <h2 style="color: white; text-shadow: 0 2px 4px rgba(0,0,0,0.3); margin-bottom: 25px;"> Core Expertise</h2>
   
   <table style="width: 100%; color: white; font-size: 16px;">
     <tr>
