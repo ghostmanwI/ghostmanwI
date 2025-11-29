@@ -51,9 +51,9 @@
 </div>
 
 <div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 20px; border-radius: 20px; margin: 30px 0; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);">
-  <h3 style="color: white; margin: 0;">🌟 Open to freelance & collaborations!</h3>
+  <h3 style="color: white; margin: 0;"> Open to freelance & collaborations!</h3>
   <p style="color: rgba(255,255,255,0.9); margin: 10px 0 0 0; font-size: 16px;">
-    📧 <a href="mailto:daniel@carvalhostudio.com.br" style="color: white; text-decoration: none; font-weight: bold;">daniel@carvalhostudio.com.br</a>
+     <a href="mailto:daniel@carvalhostudio.com.br" style="color: white; text-decoration: none; font-weight: bold;">daniel@carvalhostudio.com.br</a>
   </p>
 </div>
 
