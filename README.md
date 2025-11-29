@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 </div>
 
-** Open to freelance & collaborations!**  
+**Open to freelance & collaborations!**  
 📧 daniel@carvalhostudio.com.br
 
 </div>
