@@ -2,8 +2,8 @@
 
 <img src="https://avatars.githubusercontent.com/u/85089217?u=0db684bafb8c57a2743bfdc1b2ce60f40e39a761&v=4" width="180" alt="Profile Picture" style="border-radius:50%;"/>
 
-# 👨‍💻 Full Stack Developer & AI Specialist
-## 🤖 Automation | 📈 Trading Bots | 🇧🇷 16yo Brazilian Freelancer
+#  Full Stack Developer & AI Specialist
+##  Automation |  Trading Bots | 🇧🇷 16yo Brazilian Freelancer
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #f5576c 75%, #4facfe 100%); 
             padding: 30px; border-radius: 25px; margin: 25px 0; 
@@ -14,19 +14,19 @@
   
   <table style="width: 100%; color: white; font-size: 16px;">
     <tr>
-      <td style="width: 25%; padding: 12px; vertical-align: top;"><span style="font-size: 24px;">⚛️</span> <strong>Full Stack</strong></td>
+      <td style="width: 25%; padding: 12px; vertical-align: top;"><span style="font-size: 24px;"></span> <strong>Full Stack</strong></td>
       <td style="padding: 12px;">React/Next.js • Node.js/Express • TypeScript</td>
     </tr>
     <tr style="background: rgba(255,255,255,0.1);">
-      <td style="width: 25%; padding: 12px; vertical-align: top;"><span style="font-size: 24px;">🤖</span> <strong>AI & ML</strong></td>
+      <td style="width: 25%; padding: 12px; vertical-align: top;"><span style="font-size: 24px;"></span> <strong>AI & ML</strong></td>
       <td style="padding: 12px;">ChatGPT • Gemini API • n8n • Python ML • Neural Networks • LoRA Training • Fine-tuning</td>
     </tr>
     <tr>
-      <td style="width: 25%; padding: 12px; vertical-align: top;"><span style="font-size: 24px;">📱</span> <strong>WhatsApp Bots</strong></td>
+      <td style="width: 25%; padding: 12px; vertical-align: top;"><span style="font-size: 24px;"></span> <strong>WhatsApp Bots</strong></td>
       <td style="padding: 12px;">Baileys Multi-session • Dialogflow</td>
     </tr>
     <tr style="background: rgba(255,255,255,0.1);">
-      <td style="width: 25%; padding: 12px; vertical-align: top;"><span style="font-size: 24px;">📈</span> <strong>Trading Systems</strong></td>
+      <td style="width: 25%; padding: 12px; vertical-align: top;"><span style="font-size: 24px;"></span> <strong>Trading Systems</strong></td>
       <td style="padding: 12px;">MACD/RSI • Supabase • B3 API</td>
     </tr>
   </table>
