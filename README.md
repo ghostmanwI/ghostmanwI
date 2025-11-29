@@ -30,18 +30,21 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostmanwI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=f9d71c"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostmanwI&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
 </div>
 
-<h3>📊 Tech Stack</h3>
+<h3>💻 Tech Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,mysql,redis" width="500" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=supabase,openai,n8n,whatsapp,binance,googlecloud" width="500" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-**🌟 Open to freelance & collaborations!**  
-📧 [your-email@example.com]
-
-</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Redis-CC0000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECBFE?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt
