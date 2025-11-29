@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/seuusername/seuusername.png" width="180" alt="Profile Picture" style="border-radius:50%;"/>
+<img src="https://github.com/ghostmanwI/ghostmanwI.png" width="180" alt="Profile Picture" style="border-radius:50%;"/>
 
 # Full Stack Developer & AI Specialist
 ## Automation | Trading Bots | 25yo Brazilian Freelancer
@@ -30,14 +30,14 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostmanwI&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-  [![Trading AI](https://img.shields.io/badge/Trading%20AI-WINZ25-00D4AA?style=for-the-badge&logo=chart-line&logoColor=white)](https://github.com/seuusername/trading-ai)
-  [![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/seuusername/whatsapp-bot)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Full%20Stack-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://github.com/seuusername/portfolio)
+  [![Trading AI](https://img.shields.io/badge/Trading%20AI-WINZ25-00D4AA?style=for-the-badge&logo=chart-line&logoColor=white)](https://github.com/ghostmanwI/trading-ai)
+  [![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/ghostmanwI/whatsapp-bot)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Full%20Stack-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ghostmanwI/portfolio)
 </div>
 
 <h3>📊 Tech Stack</h3>
