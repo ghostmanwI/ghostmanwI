@@ -1,29 +1,43 @@
 <div align="center">
 
-<img src="https://github.com/seuusername/seuusername.png" width="150" alt="Profile Picture"/>
+<img src="https://github.com/seuusername/seuusername.png" width="180" alt="Profile Picture" style="border-radius:50%;"/>
 
 # Full Stack Developer & AI Specialist
-**Automation | Trading Bots | 25yo Brazilian Freelancer**
+## Automation | Trading Bots | 25yo Brazilian Freelancer
 
-🚀 **Core Expertise**
-- Full Stack: React/Next.js, Node.js/Express, TypeScript, Python/FastAPI
-- AI & Automation: ChatGPT/OpenAI, Gemini API, n8n workflows
-- WhatsApp Bots: Baileys multi-session, Dialogflow
-- Trading Systems: MACD/RSI analysis, Supabase, B3 API
-- APIs: Instagram/Telegram/Binance, Google Cloud
+<div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  
+  <h3>🚀 Core Expertise</h3>
+  <table>
+    <tr>
+      <td>⚛️ <strong>Full Stack</strong></td>
+      <td>React/Next.js • Node.js/Express • TypeScript</td>
+    </tr>
+    <tr>
+      <td>🤖 <strong>AI & Automation</strong></td>
+      <td>ChatGPT • Gemini API • n8n • Image/Video Gen</td>
+    </tr>
+    <tr>
+      <td>📱 <strong>WhatsApp Bots</strong></td>
+      <td>Baileys Multi-session • Dialogflow</td>
+    </tr>
+    <tr>
+      <td>📈 <strong>Trading Systems</strong></td>
+      <td>MACD/RSI • Supabase • B3 API</td>
+    </tr>
+  </table>
+</div>
 
-💼 **Featured Projects**
-[![Trading AI](https://img.shields.io/badge/Trading%20AI-WINZ25-blue)](https://github.com/seuusername/trading-ai)
-[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-Baileys-green)](https://github.com/seuusername/whatsapp-bot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Full%20Stack-orange)](https://github.com/seuusername/portfolio)
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
+  [![Trading AI](https://img.shields.io/badge/Trading%20AI-WINZ25-00D4AA?style=for-the-badge&logo=chart-line&logoColor=white)](https://github.com/seuusername/trading-ai)
+  [![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/seuusername/whatsapp-bot)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Full%20Stack-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://github.com/seuusername/portfolio)
+</div>
 
-📈 **Tech Stack**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+<h3>📊 Tech Stack</h3>
+<img src="https://skillicons.dev/icons?i=js,ts,react,node,python,supabase,mysql,redis,openai,n8n" alt="Tech Stack" />
 
-🌟 Open to freelance & collaborations!
+**🌟 Open to freelance & collaborations!**  
 📧 [your-email@example.com]
 
 </div>
