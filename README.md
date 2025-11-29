@@ -7,7 +7,7 @@
 
 <div style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
   
-  <h3>🚀 Core Expertise</h3>
+  <h3> Core Expertise</h3>
   <table>
     <tr>
       <td>⚛️ <strong>Full Stack</strong></td>
@@ -28,13 +28,8 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostmanwI&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
-</div>
 
-<h3>💻 Tech Stack</h3>
+<h3> Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -53,7 +48,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 </div>
 
-**🌟 Open to freelance & collaborations!**  
-📧 [your-email@example.com]
+** Open to freelance & collaborations!**  
+📧 daniel@carvalhostudio.com.br
 
 </div>
