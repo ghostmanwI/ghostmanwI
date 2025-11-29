@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ghostmanwI/ghostmanwI.png" width="180" alt="Profile Picture" style="border-radius:50%;"/>
+
 
 # Full Stack Developer & AI Specialist
 ## Automation | Trading Bots | 25yo Brazilian Freelancer
@@ -28,11 +28,6 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostmanwI&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmanwI&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
-</div>
 
 <h3>💻 Tech Stack</h3>
 <div align="center">
